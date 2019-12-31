@@ -1,3 +1,9 @@
+# Site settings
 theme: jekyll-theme-slate
-title: Welcome to HK's Homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
+title: Machine Learning for Healthcare
+email: hyunkwanglee@g.harvard.edu
+description: "PhD in Eletrical Engineering at Harvard SEAS"
+baseurl: ""
+url: "http://hyunkwang.github.io"
+twitter_username: hyunkwang_lee
+github_username: hyunkwang
